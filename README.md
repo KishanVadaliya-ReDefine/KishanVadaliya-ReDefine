@@ -4,11 +4,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kishan-Vadaliya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="169" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kishan-Vadaliya&locale=en&hide_title=false&layout=compact&card_width=315&langs_count=5&theme=dracula&hide_border=false" height="169" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="212" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
@@ -69,12 +64,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kishan-Vadaliya/Kishan-Vadaliya/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kishan-Vadaliya/Kishan-Vadaliya/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kishan-Vadaliya/Kishan-Vadaliya/output/github-snake.svg" />
-</picture>
-
 ###
 
 <div align="center">
@@ -96,7 +85,9 @@
 </div>
 
 ###
+<div align="center"> 
+  <h2>✍️ Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes">
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
